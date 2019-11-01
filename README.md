@@ -1,4 +1,4 @@
-# Language Features extend from Typescript
+# vscode-extension api.ts support
 
 ## Features
 
